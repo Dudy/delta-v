@@ -2,3 +2,28 @@ Delta-v
 
 This is a game inspired by "Swarm Simulator" (https://www.swarmsim.com/#/).
 
+Gameplay
+
+
+------------------------------------------------------------------------------------------------------------------------
+Raketengrundgleichung: v(m) = v_g * ln(m_0/m)
+    Stützmassenaustrittsgeschwindigkeit v_g
+    Anfangsmasse m_0
+    Restmasse m
+
+Endgeschwindigkeit v_end
+    v_end = v_g * ln(m_0 / m_end)
+
+Rakete 1
+- Masse:
+    - Treibstoff: 90kg
+    - Nutzlast: 10kg
+    - total: 100kg
+- Triebwerk:
+    - 1.1kN ??
+-
+------------------------------------------------------------------------------------------------------------------------
+Andere Idee
+
+
+------------------------------------------------------------------------------------------------------------------------
