@@ -23,7 +23,42 @@ Rakete 1
     - 1.1kN ??
 -
 ------------------------------------------------------------------------------------------------------------------------
-Andere Idee
+Andere Idee (doch mehr SwarmSim)
+
+Rohstoffe
+- Geld
+- Energie
+- Metall
+- Kunststoff
 
 
+
+
+- Geld
+    - Verkauf anderer Sachen (Energie, Metall, Kunststoff)
+    - Verkauf von Flügen
+- Energie
+    - Solarzellen, Energie muss sofort verbraucht werden (einmalig Geld => regelmäßig Energie)
+    - später Batterien, können Energie speichern und später abgeben (einmalig Geld => regelmäßig Energie)
+    - Windkraft (einmalig Geld => regelmäßig Energie)
+    - Fissionsreaktor (einmalig Geld, regelmäßig Geld => regelmäßig Energie)
+    - Fusionsreaktor (einmalig Geld, regelmäßig Geld => regelmäßig Energie)
+- Metall
+    - Erzabbau (einmalig Geld, regelmäßig Geld => regelmäßig Erz)
+    - Verhüttung  (einmalig Geld, regelmäßig Geld, regelmäßig Erz => regelmäßig Metall)
+
+
+
+Hauptziel: "Raumflüge"
+-
+------------------------------------------------------------------------------------------------------------------------
+Andere Idee (doch mehr SwarmSim)
+
+Meat = Delta-v
+Drone = Raketentriebwerk
+Queen = einstufige Rakete
+Nest = zweistufige Rakete
+
+Startwert: (35 Meat, Kosten 1 Drone = 10 Meat) => (3.5 m/s, Kosten 1 Raketentriebwerk = 10 m/s)
+bei (3.33T Meat = 1000 m/s gibt es ein Forschungszentrum)
 ------------------------------------------------------------------------------------------------------------------------
